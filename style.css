@@ -1,0 +1,49 @@
+body {
+
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 50%, rgba(45,253,58,1) 100%);
+
+}
+
+#header {
+
+  font-family: 'Dancing Script', cursive;
+
+}
+
+#para {
+
+  font-family: 'Burbank Big Condensed';
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+
+#footer_inner {
+
+  font-size: 17px;
+  color: #FF0000;
+  text-align: center;
+  margin-top: 125px;
+  font-family: 'Burbank Big Condensed';
+
+}
+
+#footer_like {
+
+  font-size: 17px;
+  color: white;
+  text-align: center;
+  font-family: 'Burbank Big Condensed';
+  
+}
+
+#footer_like:hover {
+
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    font-family: 'Burbank Big Condensed';
+    cursor: default;
+    
+}
